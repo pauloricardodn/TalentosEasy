@@ -1,0 +1,5 @@
+C:\Users\Paulo\source\repos\TesteTalentosEasy\TalentosEasy.Dominio\bin\Debug\TalentosEasy.Dominio.dll
+C:\Users\Paulo\source\repos\TesteTalentosEasy\TalentosEasy.Dominio\bin\Debug\TalentosEasy.Dominio.pdb
+C:\Users\Paulo\source\repos\TesteTalentosEasy\TalentosEasy.Dominio\obj\Debug\TalentosEasy.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\TesteTalentosEasy\TalentosEasy.Dominio\obj\Debug\TalentosEasy.Dominio.dll
+C:\Users\Paulo\source\repos\TesteTalentosEasy\TalentosEasy.Dominio\obj\Debug\TalentosEasy.Dominio.pdb

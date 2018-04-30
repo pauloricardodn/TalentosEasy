@@ -1,0 +1,2 @@
+C:\Users\Paulo\source\repos\TesteTalentosEasy\TalentosEasy\obj\Debug\TalentosEasy.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\source\repos\TesteTalentosEasy\TalentosEasy\obj\Debug\TalentosEasy.WebApi.csproj.CoreCompileInputs.cache

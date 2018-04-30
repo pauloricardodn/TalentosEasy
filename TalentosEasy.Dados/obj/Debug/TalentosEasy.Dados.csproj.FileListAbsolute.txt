@@ -1,0 +1,13 @@
+C:\Users\Paulo\source\repos\TesteTalentosEasy\TalentosEasy.Dados\bin\Debug\TalentosEasy.Dados.dll.config
+C:\Users\Paulo\source\repos\TesteTalentosEasy\TalentosEasy.Dados\bin\Debug\TalentosEasy.Dados.dll
+C:\Users\Paulo\source\repos\TesteTalentosEasy\TalentosEasy.Dados\bin\Debug\TalentosEasy.Dados.pdb
+C:\Users\Paulo\source\repos\TesteTalentosEasy\TalentosEasy.Dados\bin\Debug\EntityFramework.dll
+C:\Users\Paulo\source\repos\TesteTalentosEasy\TalentosEasy.Dados\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Paulo\source\repos\TesteTalentosEasy\TalentosEasy.Dados\bin\Debug\TalentosEasy.Dominio.dll
+C:\Users\Paulo\source\repos\TesteTalentosEasy\TalentosEasy.Dados\bin\Debug\TalentosEasy.Dominio.pdb
+C:\Users\Paulo\source\repos\TesteTalentosEasy\TalentosEasy.Dados\bin\Debug\EntityFramework.xml
+C:\Users\Paulo\source\repos\TesteTalentosEasy\TalentosEasy.Dados\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Paulo\source\repos\TesteTalentosEasy\TalentosEasy.Dados\obj\Debug\TalentosEasy.Dados.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\source\repos\TesteTalentosEasy\TalentosEasy.Dados\obj\Debug\TalentosEasy.Dados.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\TesteTalentosEasy\TalentosEasy.Dados\obj\Debug\TalentosEasy.Dados.dll
+C:\Users\Paulo\source\repos\TesteTalentosEasy\TalentosEasy.Dados\obj\Debug\TalentosEasy.Dados.pdb
