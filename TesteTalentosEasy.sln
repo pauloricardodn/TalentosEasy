@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - WebApi", "2 - WebApi", "{D748E761-774C-40BE-9E13-58976DF776BF}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Dados", "4 - Dados", "{AF3AC17B-BB8B-40DF-AE0F-02A893B58DF9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Dominio", "3 - Dominio", "{1F781312-C0C9-4107-ACE7-AA960C7ACF66}"
@@ -14,6 +12,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalentosEasy.Dominio", "TalentosEasy.Dominio\TalentosEasy.Dominio.csproj", "{74E974AD-C4B7-4FB5-89B6-E76ADD1CB190}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalentosEasy.Dados", "TalentosEasy.Dados\TalentosEasy.Dados.csproj", "{9D4381F5-9140-454C-A9E4-1DA91536FF69}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - WebApi", "2 - WebApi", "{8139CCE2-76B9-46C4-A529-422A7FF6DD25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalentosEasy.WebApi", "TalentosEasy.WebApi\TalentosEasy.WebApi.csproj", "{7ED52105-2467-46B1-B288-59BF775D3986}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,10 @@ Global
 		{9D4381F5-9140-454C-A9E4-1DA91536FF69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D4381F5-9140-454C-A9E4-1DA91536FF69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D4381F5-9140-454C-A9E4-1DA91536FF69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ED52105-2467-46B1-B288-59BF775D3986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ED52105-2467-46B1-B288-59BF775D3986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ED52105-2467-46B1-B288-59BF775D3986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ED52105-2467-46B1-B288-59BF775D3986}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,6 +42,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{74E974AD-C4B7-4FB5-89B6-E76ADD1CB190} = {1F781312-C0C9-4107-ACE7-AA960C7ACF66}
 		{9D4381F5-9140-454C-A9E4-1DA91536FF69} = {AF3AC17B-BB8B-40DF-AE0F-02A893B58DF9}
+		{7ED52105-2467-46B1-B288-59BF775D3986} = {8139CCE2-76B9-46C4-A529-422A7FF6DD25}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1F14C98B-F8B9-467F-A656-0EFD8A4E35DF}
